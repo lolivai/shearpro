@@ -1,0 +1,14 @@
+{
+  "name": "PR-FinderV1",
+  "description": "PR-FinderV1 Desarrollado por AresDza, Prohibida la Distribuición sin autorización de este Código",
+  "env": {
+    "administrador": {
+      "description": "El Usuario de Telegram Q Va A Administrar El Bot",
+      "value": "Unk980929"
+    },
+    "bot_token": {
+      "description": "El token del bot",
+      "value": "5377296671:AAE5-uj9Ocmokz4TrVld63eHxVIGjKILqro"
+    }
+  }
+}
