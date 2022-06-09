@@ -25,15 +25,15 @@ class JsonDatabase(object):
         dbfile.close()
 
     def propietario(self,name):
-        self.items[name] = {'ip': '181.225.253.188',
-                     'rango_minimo': 2080,
-                     'rango_maximo': 2085,
+        self.items[name] = {'ip': '152.206.177.14',
+                     'rango_minimo': 4000,
+                     'rango_maximo': 4500,
                      'admin': 1}
 
     def create_user(self,name):
-        self.items[name] = {'ip': '181.225.253.188',
-                     'rango_minimo': 2080,
-                     'rango_maximo': 2085,
+        self.items[name] = {'ip': '152.206.177.14',
+                     'rango_minimo': 4000,
+                     'rango_maximo': 4500,
                      'admin': 0}
 
     def is_admin(self,user):
