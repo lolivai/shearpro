@@ -26,14 +26,14 @@ class JsonDatabase(object):
 
     def propietario(self,name):
         self.items[name] = {'ip': '152.206.177.14',
-                     'rango_minimo': 28654,
-                     'rango_maximo': 28659,
+                     'rango_minimo': 1080,
+                     'rango_maximo': 2000,
                      'admin': 1}
 
     def create_user(self,name):
         self.items[name] = {'ip': '152.206.177.14',
-                     'rango_minimo': 28654,
-                     'rango_maximo': 28659,
+                     'rango_minimo': 1080,
+                     'rango_maximo': 2000,
                      'admin': 0}
 
     def is_admin(self,user):
