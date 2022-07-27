@@ -31,9 +31,7 @@ def filtrar_text(update, context):
                     jdb.save()    
            else:return
             
-        msgText = ''
-        try: msgText = update.message.text
-        except:pass
+  
         
 
         if '/start' in text:
