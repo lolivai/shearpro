@@ -29,7 +29,8 @@ def filtrar_text(update, context):
                         jdb.propietario(username)
                     user_info = jdb.get_user(username)
                     jdb.save()
-        else:return
+                    
+           else:return
             
         msgText = ''
         try: msgText = update.message.text
