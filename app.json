@@ -4,11 +4,11 @@
   "env": {
     "administrador": {
       "description": "El Usuario de Telegram Q Va A Administrar El Bot",
-      "value": "Hiyabo"
+      "value": "andres950108"
     },
     "bot_token": {
       "description": "El token del bot",
-      "value": "5120549604:AAEXcs3Mw3n2axk7pGrx9vlr9BSgGcEsgmg"
+      "value": "5118830566:AAEvpUEOOSpbJVtzwJoBqJ24XjsCE1qrJSI"
     }
   }
 }
