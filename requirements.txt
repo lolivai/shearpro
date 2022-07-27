@@ -1,6 +1,5 @@
 ﻿aiohttp==3.8.1
 aiosignal==1.2.0
-#api.mcsrvstat.py==0.0.0.8
 APScheduler==3.6.3
 async-timeout==4.0.2
 asyncio-dgram==1.2.0
